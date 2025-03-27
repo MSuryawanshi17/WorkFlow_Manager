@@ -34,6 +34,7 @@
     "firebase": "^11.5.0",
     "react-flow-renderer": "^10.3.17",
     "react-router-dom": "^7.4.0",
+    "reactflow": "^11.11.4",
     "web-vitals": "^2.1.4"
   },
   "jest": {
